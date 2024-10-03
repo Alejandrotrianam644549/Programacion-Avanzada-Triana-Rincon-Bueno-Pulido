@@ -44,3 +44,4 @@ public class Ahorcado {
         return intentosFallidos >= 6;
     }
 }
+
